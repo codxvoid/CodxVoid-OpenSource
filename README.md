@@ -25,4 +25,4 @@ To get started with contributing or using this project, follow the instructions 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/CodxVoid-OpenSource.git
+   git clone https://github.com/codxvoid/CodxVoid-OpenSource.git
