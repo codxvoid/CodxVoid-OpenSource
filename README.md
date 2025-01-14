@@ -6,7 +6,7 @@ Welcome to the **CodxVoid-OpenSource** repository! This project is part of the *
 
 This project is licensed under the **Codx GPL International License**.
 
-See [LICENSE.md](https://github.com/codxvoid/CodxVoid-OpenSource/edit/main/LICENSE.md) for more details about the terms and conditions.
+See [LICENSE.md](https://github.com/codxvoid/CodxVoid-OpenSource?tab=License-1-ov-file) for more details about the terms and conditions.
 
 ## About
 
