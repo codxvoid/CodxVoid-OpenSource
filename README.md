@@ -1,6 +1,12 @@
 # CodxVoid-OpenSource
 
-Welcome to the **CodxVoid-OpenSource** repository! This project is part of the **CodxVoid** initiative, which focuses on advancing innovation in technology, artificial intelligence (AI), machine learning (ML), and open-source collaboration.
+Welcome to the **CodxVoid-OpenSource** repository! This project is part of the **CodxVoid** initiative, which focuses on advancing innovation in technology, artificial intelligence (AI), machine learning (ML), and open-source collaboration
+
+## IMG
+
+The any kind of image format in <a href="https://github.com/codxvoid/CodxVoid-OpenSource/tree/main/IMG">IMG</a> is © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+
+See [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## License
 
