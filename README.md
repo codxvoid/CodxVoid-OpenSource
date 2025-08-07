@@ -4,9 +4,9 @@ Welcome to the **CodxVoid-OpenSource** repository! This project is part of the *
 
 ## IMG
 
-The any kind of image format in <a href="https://github.com/codxvoid/CodxVoid-OpenSource/tree/main/IMG">IMG</a> is © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+The any kind of image format in <a href="https://github.com/codxvoid/CodxVoid-OpenSource/tree/main/IMG">IMG</a> is © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
-See [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+See [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## License
 
