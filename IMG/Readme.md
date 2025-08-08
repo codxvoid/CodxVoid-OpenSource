@@ -29,3 +29,7 @@
 ### CodxRocket by codxvoid
 
 <a href="https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/IMG/CodxRocket.svg">CodxRocket</a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+
+### Xivo by codxvoid
+
+<a href="https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/IMG/Xivo.svg">Xivo</a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
