@@ -19,3 +19,9 @@
 <a href="https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/IMG/xLaunch.svg">xLaunch </a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
 
 <a href="https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/IMG/xLaunch-dbg.svg">xLaunch-dbg </a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+
+###xLaunch-monochrome by codxvoid
+
+<a href="https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/IMG/xLaunch-monochrome.svg">xLaunch-monochrome </a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+
+<a href="https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/IMG/xLaunch-monochrome-bg.svg">xLaunch-monochrome-bg </a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
