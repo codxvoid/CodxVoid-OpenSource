@@ -2,18 +2,13 @@
 
 Welcome to the **CodxVoid-OpenSource** repository! This project is part of the **CodxVoid** initiative, which focuses on advancing innovation in technology, artificial intelligence (AI), machine learning (ML), and open-source collaboration
 
-## IMG
 
-The any kind of image format in <a href="https://github.com/codxvoid/CodxVoid-OpenSource/tree/main/IMG">IMG</a> is © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+## License & Trademark
 
-See [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-## License
-
-This project is licensed under the **Codx GPL International License**.
-
-See [LICENSE.md](https://github.com/codxvoid/CodxVoid-OpenSource/blob/main/LICENSE) for more details about the terms and conditions.
-
+- **Source Code**: This project is licensed under the [GPL-3.0 License](LICENSE).
+- **Images & Media**: All files in the [IMG](/IMG) directory are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- **Brand Identity**: The **CodxVoid™** name, logo, and slogans are protected brand assets. See [TRADEMARK.md](https://github.com/codxvoid/.github/blob/main/profile/TRADEMARK.md) for usage guidelines.
+  
 ## About
 
 **CodxVoid-OpenSource** is a collaborative space for developers, researchers, and innovators to come together and contribute to cutting-edge projects. We aim to create tools, technologies, and solutions that are free, open, and transparent while preserving the integrity of our brand and mission.
